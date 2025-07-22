@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [National Pension Scheme](https://www.cra-nsdl.com/CRA/)
 
-- 🌱 I’m currently learning **Automation Testing**
+- 🌱 I’m currently learning **Automation Testing.**
 
 - 👯 I’m looking to collaborate on **API Testing, Selenium, Automation Frameworks**
 
